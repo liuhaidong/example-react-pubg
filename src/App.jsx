@@ -18,7 +18,7 @@ const Game = () => {
   const zoom = windowSize.width > windowSize.height ? 1 : 0.5
 
   return (<>
-    <World>
+    <World logarithmicDepth>
       <Model src="Grassland.glb" scale={270} physics="map" />
       <FirstPersonCamera active mouseControl zoom={zoom}>
           <Model 

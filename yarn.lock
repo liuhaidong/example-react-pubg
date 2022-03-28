@@ -670,10 +670,10 @@ json5@^2.1.2:
   resolved "https://registry.yarnpkg.com/json5/-/json5-2.2.1.tgz#655d50ed1e6f95ad1a3caababd2b0efda10b395c"
   integrity sha512-1hqLFMSrGHRHxav9q9gNjJ5EXznIxGVO09xQRrwplcS8qs28pZ8s8hupZAmqDwZUmVZ2Qb2jnyPOWcDH8m8dlA==
 
-lingo3d-react@1:
-  version "1.1.43"
-  resolved "https://registry.yarnpkg.com/lingo3d-react/-/lingo3d-react-1.1.43.tgz#8f9a5ce5ac9bc105613f600c01f45fd09884d29f"
-  integrity sha512-GHA0uEual3blyT0zR3cNsZ3DZUFrXnyxgiCkD8Vh4zIvsSUuKQyfJOri1QDIUlRo+nnFdxwiWLicsnN38qHxtQ==
+lingo3d-react@^1.1.52:
+  version "1.1.52"
+  resolved "https://registry.yarnpkg.com/lingo3d-react/-/lingo3d-react-1.1.52.tgz#8d890ac7751bc00e686e45929aa4faf415d3ad99"
+  integrity sha512-CcckM+DmGhgrLUjeaCctP3l8Sjl3V7pQmHcNebZ8J7ZAW6Gi+WWK7K8dsMsmUnn+gvGnx/OePtWmAQ1PTK6xhA==
   dependencies:
     "@lincode/hooks" "^1.0.35"
     "@lincode/promiselikes" "^1.0.19"
@@ -683,15 +683,15 @@ lingo3d-react@1:
     "@lincode/reactivity" "^1.0.52"
     "@lincode/utils" "*"
     "@tweakpane/core" "1"
-    lingo3d "1.9.59"
+    lingo3d "1.9.69"
     nanoid "3"
     popmotion "11"
     tweakpane "3"
 
-lingo3d@1.9.59:
-  version "1.9.59"
-  resolved "https://registry.yarnpkg.com/lingo3d/-/lingo3d-1.9.59.tgz#8a1e0b8c1751456240dca2b1bc481c1e36176d2e"
-  integrity sha512-/ip3kCtv/3g1vRUlrwYMiA7MfN1PQB+oiGlKfm1RyLqO0QHwziuwmKE9eL6gcQSIrPXHPKYMvqURf2SA7grm4Q==
+lingo3d@1.9.69:
+  version "1.9.69"
+  resolved "https://registry.yarnpkg.com/lingo3d/-/lingo3d-1.9.69.tgz#a0082aa8adef297358febf60ef8c93becda3b90d"
+  integrity sha512-vD8pt8eUSE+ChbUeNhiO0dj0ZfwpTeN6yPgypMwq1yGbO3K3pXmgbN98QCcAHE2qtYAj35wR2FPWhWNYdFY6tg==
   dependencies:
     "@lincode/events" "*"
     "@lincode/filetypes" "*"
@@ -704,7 +704,7 @@ lingo3d@1.9.59:
     cannon-es "0.19.0"
     resize-observer-polyfill "1"
     three "0.139.0"
-    three-mesh-bvh "0.5.7"
+    three-mesh-bvh "0.5.8"
 
 lodash@4:
   version "4.17.21"
@@ -870,10 +870,10 @@ supports-preserve-symlinks-flag@^1.0.0:
   resolved "https://registry.yarnpkg.com/supports-preserve-symlinks-flag/-/supports-preserve-symlinks-flag-1.0.0.tgz#6eda4bd344a3c94aea376d4cc31bc77311039e09"
   integrity sha512-ot0WnXS9fgdkgIcePe6RHNk1WA8+muPa6cSjeR3V8K27q9BB1rTE3R1p7Hv0z1ZyAc8s6Vvv8DIyWf681MAt0w==
 
-three-mesh-bvh@0.5.7:
-  version "0.5.7"
-  resolved "https://registry.yarnpkg.com/three-mesh-bvh/-/three-mesh-bvh-0.5.7.tgz#bb5620dc4cf213f0ea29c8638347312c81dbfb2b"
-  integrity sha512-CASFj3/3WKQ68S6E3vUNVTPyz9qHPJIDYvO4pEYMTUY0NOGCunz/mMnn71S3TKlDKamYPZO4PMv9SDN8SVBIEA==
+three-mesh-bvh@0.5.8:
+  version "0.5.8"
+  resolved "https://registry.yarnpkg.com/three-mesh-bvh/-/three-mesh-bvh-0.5.8.tgz#d8882625c0d5b07e86e0c2ad3cff2091e3650af8"
+  integrity sha512-aw1hGGKP91WC98vDh+M7yGczwnmmtbcCwDjsh7hls076S91GuSfWbCoym3GK64uR0BhySlV5mEitCKQu3o7srg==
 
 three@0.139.0:
   version "0.139.0"
