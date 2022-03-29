@@ -34,7 +34,7 @@ const Game = () => {
       <Skybox texture="skybox.jpg" />
     </World>
     <Mouse onClick={() => gunSpring.restart()} />
-    <Joystick onMove={e => setJoystick(e)} onMoveEnd={() => setJoystick({ x: 0, y: 0, angle: 0 })} />
+    <Joystick onMove={e => setJoystick(e)} />
     <Reticle variant={7} color="white" />
   </>)
 }
