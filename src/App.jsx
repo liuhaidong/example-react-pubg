@@ -26,7 +26,7 @@ const Game = () => {
             src="Fox.fbx" 
             physics="character"
             animations={{ idle:"Rifle Idle.fbx", walking:"Rifle Run.fbx" }}
-            animation = {motion}
+            animation={motion}
             visible={false}
           />
           <Model src="gun.glb" z={gunSpring} x={20} y={-10} scale={0.2} innerRotationY={-90} />
