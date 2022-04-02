@@ -658,10 +658,10 @@ json5@^2.1.2:
   resolved "https://registry.yarnpkg.com/json5/-/json5-2.2.1.tgz#655d50ed1e6f95ad1a3caababd2b0efda10b395c"
   integrity sha512-1hqLFMSrGHRHxav9q9gNjJ5EXznIxGVO09xQRrwplcS8qs28pZ8s8hupZAmqDwZUmVZ2Qb2jnyPOWcDH8m8dlA==
 
-lingo3d-react@^1.1.57:
-  version "1.2.3"
-  resolved "https://registry.yarnpkg.com/lingo3d-react/-/lingo3d-react-1.2.3.tgz#be0d48f5722b97e7cff5900c56953871bfba0ba1"
-  integrity sha512-R3epyuhQcAwV3IRK6wAlxT15Hq9b0Wnestw59WOlTimh8JXNe8Q5cMUxJ9VduAjSKcg/tAL1FQrtz3r9n9ygsA==
+lingo3d-react@^1.2.6:
+  version "1.2.6"
+  resolved "https://registry.yarnpkg.com/lingo3d-react/-/lingo3d-react-1.2.6.tgz#1fda01e9dbde8f4b166167a5f25b0dff1b6fd5eb"
+  integrity sha512-FhhYzkAUmhrskJtvxMjP8sZn+4rF3WBIfyZYEpunXk5ggnC7EcyObRUqeElVr5+T4NO2QwmjHD+p2xev0GKCrg==
   dependencies:
     "@lincode/hooks" "*"
     "@lincode/promiselikes" "*"
@@ -671,15 +671,15 @@ lingo3d-react@^1.1.57:
     "@lincode/reactivity" "*"
     "@lincode/utils" "*"
     "@tweakpane/core" "1"
-    lingo3d "1.10.1"
+    lingo3d "1.10.3"
     nanoid "3"
     popmotion "11"
     tweakpane "3"
 
-lingo3d@1.10.1:
-  version "1.10.1"
-  resolved "https://registry.yarnpkg.com/lingo3d/-/lingo3d-1.10.1.tgz#e2693b9535148c61e0d36ca5724a6b69d7f502a6"
-  integrity sha512-mtIPNcwUnMF//nqVI95bGmdyUt8HZViRhhIx7I8C9iYRF+l+lU6MBqykImZIENmkF/L0NB6Pda5A/JVYqT4cSg==
+lingo3d@1.10.3:
+  version "1.10.3"
+  resolved "https://registry.yarnpkg.com/lingo3d/-/lingo3d-1.10.3.tgz#6080e33f69d9602cdff673c9499671508050501f"
+  integrity sha512-ScGqggZvVKqECQ9kZG+NQsqc5qL3Rr2EuivZZET4VGqG9sCrzZFdV5Pn5GQuGyAgvPoGRXzprXkEzEzoDqwutQ==
   dependencies:
     "@lincode/events" "*"
     "@lincode/filetypes" "*"
