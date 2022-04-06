@@ -21,7 +21,7 @@ const Game = () => {
     <World logarithmicDepth>
       <Model src="Grassland.glb" scale={270} physics="map" />
       <FirstPersonCamera active mouseControl zoom={zoom}>
-          <Model 
+          <Model
             ref={characterRef}
             src="Fox.fbx" 
             physics="character"

@@ -270,9 +270,9 @@
     "@lincode/utils" "*"
 
 "@lincode/filetypes@*":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@lincode/filetypes/-/filetypes-1.0.0.tgz#9acd1b1460ce538cfca53671d5b5c50efdfe8279"
-  integrity sha512-IBTlWnfWrCzTGXumg4HwYCQLnrPXGHYYJzUy4bmyc44OJ3BSEEMBVZPwlYPg3uy2GsK7uz833PESe3a70QajhA==
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@lincode/filetypes/-/filetypes-1.0.1.tgz#e648e6dfb6905456543459956ba3161c5c086b8e"
+  integrity sha512-ltOOAqFCz9zRmhhis624r9ME7XNP2gYOAECa4kD5LxwEqZBto1/JK0mimDcnb6pZf4gvUjO+9tTyykQJfIcy4Q==
   dependencies:
     "@lincode/utils" "*"
 
@@ -658,10 +658,10 @@ json5@^2.1.2:
   resolved "https://registry.yarnpkg.com/json5/-/json5-2.2.1.tgz#655d50ed1e6f95ad1a3caababd2b0efda10b395c"
   integrity sha512-1hqLFMSrGHRHxav9q9gNjJ5EXznIxGVO09xQRrwplcS8qs28pZ8s8hupZAmqDwZUmVZ2Qb2jnyPOWcDH8m8dlA==
 
-lingo3d-react@^1.2.6:
-  version "1.2.13"
-  resolved "https://registry.yarnpkg.com/lingo3d-react/-/lingo3d-react-1.2.13.tgz#b0d104e9a029c5d3864c1b4d8c12a5cbe70565fb"
-  integrity sha512-060b84Ee68WlxZrdeYNOeC1wj3IbXKG9B8mr92kpi0+UUC2GdPK/iHYKPRY5s5tEPN+l2xoHwVIScTWqqSeUUw==
+lingo3d-react@^1.2.18:
+  version "1.2.18"
+  resolved "https://registry.yarnpkg.com/lingo3d-react/-/lingo3d-react-1.2.18.tgz#d758174b9f263c0f08dd59c1edf440ffc7ae9e01"
+  integrity sha512-MYL3vGc515sQ0AzmbiysAn2VfH4u/+aCrUiS+cSGDT8oDzIFBxTiwcLLPfK74gg/JjpnO53Q6wtb6QEStKr4qg==
   dependencies:
     "@lincode/hooks" "*"
     "@lincode/promiselikes" "*"
@@ -671,15 +671,15 @@ lingo3d-react@^1.2.6:
     "@lincode/reactivity" "*"
     "@lincode/utils" "*"
     "@tweakpane/core" "1"
-    lingo3d "1.10.12"
+    lingo3d "1.10.18"
     nanoid "3"
     popmotion "11"
     tweakpane "3"
 
-lingo3d@1.10.12:
-  version "1.10.12"
-  resolved "https://registry.yarnpkg.com/lingo3d/-/lingo3d-1.10.12.tgz#db987c46f7c9e5994d5628e2258bf4388267a4e6"
-  integrity sha512-bHHt0KNO3ajRVYdFFrsCix3HjB9kaHISeCblXKxNClv2cCz5GjO7Q0WdPd6jBMoJV4Nxt5ztlyNZlf+85y+yAw==
+lingo3d@1.10.18:
+  version "1.10.18"
+  resolved "https://registry.yarnpkg.com/lingo3d/-/lingo3d-1.10.18.tgz#0072c5d621256033e601ff37641f6925b59bc664"
+  integrity sha512-rck0ESBy1k8q/nLW131R07JA+tnALvfiwu1Kk+5rHbKFi62m60oQ6VDD19H3DqYfHSkHsriKiG/8YLKsmNY5nQ==
   dependencies:
     "@lincode/events" "*"
     "@lincode/filetypes" "*"
