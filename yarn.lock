@@ -658,10 +658,10 @@ json5@^2.1.2:
   resolved "https://registry.yarnpkg.com/json5/-/json5-2.2.1.tgz#655d50ed1e6f95ad1a3caababd2b0efda10b395c"
   integrity sha512-1hqLFMSrGHRHxav9q9gNjJ5EXznIxGVO09xQRrwplcS8qs28pZ8s8hupZAmqDwZUmVZ2Qb2jnyPOWcDH8m8dlA==
 
-lingo3d-react@^1.2.18:
-  version "1.2.18"
-  resolved "https://registry.yarnpkg.com/lingo3d-react/-/lingo3d-react-1.2.18.tgz#d758174b9f263c0f08dd59c1edf440ffc7ae9e01"
-  integrity sha512-MYL3vGc515sQ0AzmbiysAn2VfH4u/+aCrUiS+cSGDT8oDzIFBxTiwcLLPfK74gg/JjpnO53Q6wtb6QEStKr4qg==
+lingo3d-react@^1.2.20:
+  version "1.2.20"
+  resolved "https://registry.yarnpkg.com/lingo3d-react/-/lingo3d-react-1.2.20.tgz#b3a9cbfeef7fb7dd45871943488408e8acfce788"
+  integrity sha512-2CWKyDznajRL6FqRNk73QUbSs9FHu86D0hFav+MXuGgvMWZ3PjqfSA3f+fg1aSR1ELXfGNiogVwRHL5YL4v/CQ==
   dependencies:
     "@lincode/hooks" "*"
     "@lincode/promiselikes" "*"
