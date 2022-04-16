@@ -306,15 +306,15 @@
     "@lincode/math" "*"
     react-device-detect "^2.1.2"
 
-"@lincode/react-reticle@*":
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/@lincode/react-reticle/-/react-reticle-1.1.0.tgz#f100eb8fea2a9db733ded46f203010aca93f502c"
-  integrity sha512-G68dl19XeHMR+sLw42xW7zSxsFSG8dcl1OYGP10REesFUwQ5/RbMvfJ5CJPYERmitc8EyV9BUuppixZJtC5WwQ==
+"@lincode/react-reticle@1.1.2":
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/@lincode/react-reticle/-/react-reticle-1.1.2.tgz#a52a220874d232745ad949d06fc1a9dc622514b6"
+  integrity sha512-4R1dV4nx1w1vamwhWDqt12SojsWc8+m5tC7IgXgdMGqh3zsxyimP2P0hdrovljcfYuZxk5VN0FfzCV11A9iS1g==
 
 "@lincode/reactivity@*":
-  version "1.0.53"
-  resolved "https://registry.yarnpkg.com/@lincode/reactivity/-/reactivity-1.0.53.tgz#21e26e43019501cbb0de82ce1950e586507cf491"
-  integrity sha512-X4bLMOgEKNcsEB346HGKwCU/NzH1ZNTq8xT9SqR8nQS1R3XHO53/3nufcux6E8u14BfRpllYlsb2bekgRiPn1g==
+  version "1.0.54"
+  resolved "https://registry.yarnpkg.com/@lincode/reactivity/-/reactivity-1.0.54.tgz#72b9a49076b1688ceaa8fde960ec0df8e089527c"
+  integrity sha512-QYqMO11icMzRwt6Rzc5KhQPA7s3HGOqyFht6+Cf8xiSSEASRsQp+QvdrTGV/xe8RItGZ6KOcPXN0GN25frGMSQ==
   dependencies:
     "@lincode/events" "*"
     "@lincode/promiselikes" "*"
@@ -666,28 +666,28 @@ json5@^2.2.1:
   integrity sha512-1hqLFMSrGHRHxav9q9gNjJ5EXznIxGVO09xQRrwplcS8qs28pZ8s8hupZAmqDwZUmVZ2Qb2jnyPOWcDH8m8dlA==
 
 lingo3d-react@^1.2.62:
-  version "1.2.62"
-  resolved "https://registry.yarnpkg.com/lingo3d-react/-/lingo3d-react-1.2.62.tgz#a392aed2059bfdf2281d313a77347228b8276dfb"
-  integrity sha512-biUfhByfcfKHaU9vP9wdVddts2oJb7Y9hW5cekSTWo77AijcuN4B/nY+iQt4qAwivBMZ/UtL0WwCpYzvRqGc6A==
+  version "1.2.68"
+  resolved "https://registry.yarnpkg.com/lingo3d-react/-/lingo3d-react-1.2.68.tgz#ac399e0ca4481b9d1c818b72b0de51e79a980bd9"
+  integrity sha512-JFpp9EDsMsPSw9p32Vqnl6etrnzGETFCF3Q6xmYRsradzVdeP7WizFUPWgxgUuRA829JDlnLx1ud/LcLPZp3RA==
   dependencies:
     "@lincode/hooks" "*"
     "@lincode/promiselikes" "*"
     "@lincode/react-global-state" "*"
     "@lincode/react-joystick" "*"
-    "@lincode/react-reticle" "*"
+    "@lincode/react-reticle" "1.1.2"
     "@lincode/reactivity" "*"
     "@lincode/utils" "*"
     "@tweakpane/core" "1"
-    lingo3d "1.10.70"
+    lingo3d "1.10.74"
     nanoid "3"
     popmotion "11"
     stats.js "^0.17.0"
     tweakpane "3"
 
-lingo3d@1.10.70:
-  version "1.10.70"
-  resolved "https://registry.yarnpkg.com/lingo3d/-/lingo3d-1.10.70.tgz#31985bc7781d8e5c22cc457bf7d42150e3f26a56"
-  integrity sha512-am+CxQqWiweRFX6eYPFWroO8M61C5HgJJfWS2qkYmc0Q4ZhCs7AjdvS/1FfWCTlxNKY+FFrQuWKFGt6EnCM9Kg==
+lingo3d@1.10.74:
+  version "1.10.74"
+  resolved "https://registry.yarnpkg.com/lingo3d/-/lingo3d-1.10.74.tgz#410ecba022e137a14f1e0059d2cae42aaa0837e1"
+  integrity sha512-4RLcIeKtPeKnHqlbYRmWeRfExkc/96RiMjbUuh4cexBd9zk6Kfe1JNDRjQcvPsvctdGXLfhNx/TZqBLrLQc3ig==
   dependencies:
     "@lincode/events" "*"
     "@lincode/filetypes" "*"
